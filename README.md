@@ -8,6 +8,7 @@ Existem outras entidades além dessas três?
 - disciplina 
 - aluno 
 - professor
+
 Quais são os principais campos e tipos? 
 A resposta está localizada na imagem do conceito lógico 
 
